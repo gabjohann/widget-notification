@@ -4,8 +4,8 @@ Este projeto foi criado a partir de alguns conteúdos disponibilizados no canal 
 
 As principais funcionalidades exemplificadas aqui são:
 
-- personalização CSS de acordo com o tema do CSS;
-- falar biblioteca tailwind
+- personalização CSS de acordo com o tema do CSS utilizando Tailwind CSS;
+- uso da biblioteca [Tailwind Merge](https://github.com/dcastil/tailwind-merge) para união de classes CSS sem sobrescrita.
 - padrão de composição.
 
 Para rodar o servidor de desenvolvimento execute um dos seguintes comandos:
